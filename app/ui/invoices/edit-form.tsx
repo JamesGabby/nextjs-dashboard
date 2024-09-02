@@ -12,7 +12,6 @@ import { Button } from '@/app/ui/button';
 import { updateInvoice, State } from '@/app/lib/actions';
 import { useActionState } from 'react';
 
-
 export default function EditInvoiceForm({
   invoice,
   customers,
