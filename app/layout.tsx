@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     template: '%s | Acevent Dashboard',
     default: 'Acevent Dashboard',
   },
-  description: 'The invoice management software.',
+  description: 'The invoice & customer management software.',
   metadataBase: new URL('https://nextjs-dashboard-khaki-kappa-78.vercel.app/'),
 };
 
